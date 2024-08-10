@@ -1,4 +1,4 @@
-package com.sparta.springMVC.comtroller;
+package com.sparta.springMVC;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
